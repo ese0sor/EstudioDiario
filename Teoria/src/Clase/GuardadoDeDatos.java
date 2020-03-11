@@ -3,7 +3,7 @@ package Clase;
 public class GuardadoDeDatos {
 
 	
-	/*
+	/*Hola
 	 * Aqui tratamos la entrada y salida de datos
 	 * 
 	 * APLICACION ----(in)-----> FICHERO
